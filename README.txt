@@ -2,7 +2,7 @@ This is a homework for computational physics, containing 4 problems.
 
 1.The first problem was the simulation of a balisctic missle, with regards to air resistance,  thrust produced by the rocket and the changing mass of the rocket.
 
-2.The second problem was the simulation of 3 bodies,  tied with elastic bonds.
+2.The second problem was the simulation of 3 bodies,  tied with elastic bonds and calculating their movements.
 
 3.The third problem was the simulation of a pendulum, using the lagrangian to calculate the pendulum's position.
 
